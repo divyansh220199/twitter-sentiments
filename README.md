@@ -4,7 +4,7 @@ Task is to predict the sentiment of the tweet i.e. positive, negative or neutral
 Twitter US Airline Sentiment Dataset, which contains data for over 14000 tweets.
 # In this repository
 * `dataset.csv` - Dataset used for training and testing the model.
-* `twitter_sentiments.ipnyb` - Jupyter Notebook
+* `twitter_sentiments.ipynb` - Jupyter Notebook
 * `emogi_sentiment.csv` - CSV file for getting the sentiment of the emogi used in tweets.
 # Required external libraries
 * `numpy`
